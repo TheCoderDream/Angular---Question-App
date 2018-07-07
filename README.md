@@ -1,3 +1,5 @@
+![alt text](https://github.com/TheCodersDream/Angular---Question-App/blob/master/Screenshot_12.png)
+
 # AngularModule5
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.7.
